@@ -1,7 +1,7 @@
 # TOP4 countdown widget — now with proper AoE (UTC−12) time logic
 
 refreshFrequency: 1000
-command: "./top4_fetch.sh"
+command: "./Security_Top4_Countdown/top4_fetch.sh"
 
 style: """
   width: auto;

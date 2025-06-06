@@ -26,17 +26,22 @@ Counts down to **multi-cycle deadlines** using **AoE time (UTC−12)**.
 
 ### 1. Install [Übersicht](http://tracesof.net/uebersicht/)
 
+Make sure you have Übersicht installed on your Mac.
+
 ### 2. Clone this widget into your Übersicht widgets folder:
 
 ```bash
 cd ~/Library/Application\ Support/Übersicht/widgets
-git clone https://github.com/your-username/top4-security-deadlines.git
+git clone https://github.com/Happy2Git/Security_Top4_Countdown
 ```
 ### 3. Install dependencies:
 
 ```bash
 brew install yq jq
 ```
+### 4. Refresh Übersicht:
+
+Click on **Übersicht → Refresh All Widgets** in the menu bar.
 
 ---
 
@@ -57,7 +62,7 @@ security_top4_countdown/
 
 ## 📸 Screenshot
 
-*Add a screenshot here!*
+[Screen capture](./desktop.png)
 
 ---
 

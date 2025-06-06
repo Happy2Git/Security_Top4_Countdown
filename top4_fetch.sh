@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CACHE=top4_data.json
+CACHE="./Security_Top4_Countdown/top4_data.json"
 YQ_PATH="/opt/homebrew/bin/yq"
 
 # If the cache doesn't exist or is older than 7 days, update it
