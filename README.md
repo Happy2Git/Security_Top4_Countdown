@@ -32,7 +32,7 @@ Make sure you have Übersicht installed on your Mac.
 
 ```bash
 cd ~/Library/Application\ Support/Übersicht/widgets
-git clone https://github.com/Happy2Git/Security_Top4_Countdown
+git clone https://github.com/Happy2Git/Security_Top4_Countdown.git
 ```
 ### 3. Install dependencies:
 
