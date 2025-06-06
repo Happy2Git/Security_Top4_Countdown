@@ -1,5 +1,7 @@
 # 🔐 TOP4 Security Conference Countdown (Übersicht Widget)
 
+**Data Source:** [sec-deadlines.github.io](https://sec-deadlines.github.io)
+
 A live countdown Übersicht widget for the **Top 4 security conferences**:
 
 - IEEE S&P (Oakland)
