@@ -62,7 +62,7 @@ security_top4_countdown/
 
 ## 📸 Screenshot
 
-[Screen capture](./desktop.png)
+![Screen capture](./desktop.png)
 
 ---
 
