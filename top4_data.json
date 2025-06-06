@@ -1,0 +1,2231 @@
+[
+  {
+    "name": "S&P (Oakland)",
+    "year": 2026,
+    "date": "May 18-21",
+    "description": "IEEE Symposium on Security and Privacy",
+    "link": "https://sp2026.ieee-security.org/",
+    "deadline": [
+      "2025-06-05 23:59",
+      "2025-11-13 23:59"
+    ],
+    "place": "San Francisco, California, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF",
+      "TOP4"
+    ]
+  },
+  {
+    "name": "CCS",
+    "description": "ACM Conference on Computer and Communications Security",
+    "year": 2025,
+    "link": "https://www.sigsac.org/ccs/CCS2025",
+    "deadline": [
+      "2025-01-09 23:59",
+      "2025-04-14 23:59"
+    ],
+    "comment": "Abstract registration required (1 week before deadline AoE).",
+    "date": "October 13-17",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF",
+      "TOP4"
+    ]
+  },
+  {
+    "name": "USENIX Security",
+    "description": "USENIX Security Symposium",
+    "year": 2026,
+    "link": "https://www.usenix.org/conference/usenixsecurity26",
+    "deadline": [
+      "2025-08-26 23:59",
+      "2026-02-05 23:59"
+    ],
+    "comment": "Abstract registration required (1 week before deadline AoE).",
+    "date": "August 12-14",
+    "place": "Baltimore, MD, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF",
+      "TOP4"
+    ]
+  },
+  {
+    "name": "NDSS",
+    "description": "ISOC Network and Distributed System Security Symposium",
+    "year": 2026,
+    "link": "https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/",
+    "deadline": [
+      "2025-04-23 23:59",
+      "2025-08-06 23:59"
+    ],
+    "comment": "Abstract registration required (1 week before deadline AoE).",
+    "date": "February 23-27",
+    "place": "San Diego, CA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF",
+      "TOP4"
+    ]
+  },
+  {
+    "name": "ESORICS",
+    "description": "European Symposium on Research in Computer Security",
+    "year": 2025,
+    "link": "https://esorics2025.sciencesconf.org/",
+    "deadline": [
+      "2025-01-10 23:59",
+      "2025-04-29 23:59"
+    ],
+    "date": "September 22-26",
+    "place": "Toulouse, France",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ASIACCS",
+    "description": "ACM Asia Conference on Computer and Communications Security",
+    "year": 2026,
+    "link": "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/",
+    "deadline": [
+      "2025-08-25 23:59",
+      "2025-12-12 23:59"
+    ],
+    "date": "June 1-6",
+    "place": "Bangalore, India",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CSF",
+    "description": "IEEE Computer Security Foundations Symposium",
+    "year": 2025,
+    "link": "https://www.ieee-security.org/TC/CSF2025/",
+    "deadline": [
+      "2024-05-28 23:59",
+      "2024-10-01 23:59",
+      "2025-02-04 23:59"
+    ],
+    "date": "July",
+    "place": "Santa Cruz, CA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CANS",
+    "description": "International Conference on Cryptology and Network Security",
+    "year": 2025,
+    "link": "https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html",
+    "deadline": [
+      "2025-04-17 23:59"
+    ],
+    "date": "November 17-20",
+    "place": "Osaka, Japan",
+    "tags": [
+      "SEC",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "WiSec",
+    "description": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+    "year": 2025,
+    "link": "https://wisec2025.gmu.edu/",
+    "deadline": [
+      "2024-11-21 23:59",
+      "2025-03-12 23:59"
+    ],
+    "date": "June 30 - July 3",
+    "place": "Arlington, Virginia, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SOUPS",
+    "description": "Symposium on Usable Privacy and Security",
+    "year": 2025,
+    "link": "https://www.usenix.org/conference/soups2025",
+    "deadline": [
+      "2025-02-13 23:59"
+    ],
+    "comment": "Co-located with USENIX Security. Paper registration due Feb 6 AoE",
+    "date": "August 10-12",
+    "place": "Seattle, WA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "EuroUSEC",
+    "description": "European Symposium on Usable Security",
+    "year": 2025,
+    "link": "https://eurousec2025.cis.strath.ac.uk/",
+    "deadline": [
+      "2025-05-09 23:59"
+    ],
+    "comment": "Paper registration due May 5th AoE",
+    "date": "September 10-September 11",
+    "place": "Manchester, UK",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "FC",
+    "description": "Financial Cryptography and Data Security",
+    "year": 2025,
+    "link": "https://fc25.ifca.ai",
+    "deadline": [
+      "2024-10-08 23:59"
+    ],
+    "date": "April 14-18",
+    "place": "Miyakojima, Japan",
+    "tags": [
+      "SEC",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Euro S&P",
+    "description": "IEEE European Symposium on Security and Privacy",
+    "year": 2025,
+    "comment": "Abstract registration October 21st AoE (firm).",
+    "link": "https://eurosp2025.ieee-security.org/",
+    "deadline": [
+      "2024-10-24 23:59"
+    ],
+    "date": "June 30 - July 4",
+    "place": "Venice, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Sensors S&P",
+    "description": "Second International Workshop on Security and Privacy of Sensing Systems",
+    "year": 2025,
+    "link": "https://emtechlab.github.io/sensors-security-privacy-workshop/",
+    "deadline": [
+      "2025-02-08 23:59"
+    ],
+    "date": "May 6",
+    "comment": "Co-located with Sensys at Cyber-Physical Systems and Internet-of-Things Week",
+    "place": "Irvine, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ISC",
+    "description": "Information Security Conference",
+    "year": 2025,
+    "link": "https://isc25.skku.edu/",
+    "deadline": [
+      "2025-06-04 23:59"
+    ],
+    "date": "October 20-22",
+    "place": "Seoul, South Korea",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "TrustCom",
+    "description": "International Conference on Trust, Security and Privacy in Computing and Communications",
+    "year": 2025,
+    "link": "https://ieee-aiplus-2025.org/trustcom.html",
+    "deadline": [
+      "2025-08-01 23:59"
+    ],
+    "date": "November 14-17",
+    "place": "Guiyang, China",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "FPS",
+    "year": 2024,
+    "date": "Dec 9–11",
+    "description": "Foundations and Practice of Security Symposium",
+    "link": "https://fps-2024.hec.ca",
+    "deadline": [
+      "2024-09-06 23:59"
+    ],
+    "place": "Montreal, Canada",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SecureComm",
+    "year": 2025,
+    "date": "July 4-6",
+    "description": "International Conference on Security and Privacy in Communication Networks",
+    "link": "https://securecomm.eai-conferences.org/2025/",
+    "deadline": [
+      "2025-03-01 23:59"
+    ],
+    "place": "Xiangtan, China",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "NSS-SocialSec",
+    "description": "International Conference on Network and System Security and International Symposium on Security and Privacy in Social Networks and Big Data",
+    "year": 2024,
+    "link": "http://nsclab.org/nss-socialsec2024/index.html",
+    "deadline": [
+      "2024-07-01 23:59"
+    ],
+    "date": "Nov 20-22",
+    "place": "Abu Dhabi, UAE",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "IMF",
+    "year": 2025,
+    "date": "September 16–17",
+    "description": "International Conference on IT Security Incident Management and IT Forensics",
+    "link": "https://www.imf-conference.org/cfp.html",
+    "deadline": [
+      "2025-04-28 23:59"
+    ],
+    "timezone": "Etc/UTC",
+    "place": "Albstadt, Germany",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SciSec",
+    "description": "International Conference on Science of Cyber Security",
+    "year": 2025,
+    "link": "https://scisec.org/index.html",
+    "deadline": [
+      "2025-04-30 23:59"
+    ],
+    "date": "August 15-17",
+    "place": "Wuhan, Hubei, China",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "EDId",
+    "description": "International Workshop on Emerging Digital Identities",
+    "year": 2025,
+    "link": "https://2025.ares-conference.eu/program/edid/",
+    "deadline": [
+      "2025-05-15 23:59"
+    ],
+    "date": "August 11- August 14",
+    "place": "Ghent, BE",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SAFER",
+    "description": "Workshop on Sustainable security and Awareness For nExt generation infRastructures",
+    "year": 2025,
+    "link": "https://2025.ares-conference.eu/program/safer/",
+    "deadline": [
+      "2025-05-12 23:59"
+    ],
+    "date": "August 11-14",
+    "place": "Ghent, BE",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ICDIS",
+    "description": "International Conference on Data Intelligence and Security",
+    "year": 2024,
+    "link": "https://www.icdis.org/",
+    "deadline": [
+      "2024-06-28 23:59"
+    ],
+    "date": "November 25-28",
+    "place": "Leipzig, Germany",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SAFE-ML",
+    "description": "International Workshop on Secure, Accountable, and Verifiable Machine Learning",
+    "year": 2025,
+    "link": "https://conf.researchr.org/home/icst-2025/safe-ml-2025",
+    "comment": "Co-located with ICST",
+    "deadline": [
+      "2025-01-03 23:59"
+    ],
+    "date": "March 31 - April 4",
+    "place": "Naples, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "IFIP SEC",
+    "description": "IFIP International Information Security and Privacy Conference",
+    "year": 2025,
+    "link": "https://sec2025.um.si/",
+    "deadline": [
+      "2024-12-20 23:59"
+    ],
+    "date": "May 21 - 23",
+    "place": "Maribor, Slovenia",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "IFIP WNDSS",
+    "description": "IFIP International Workshop on Network and Distributed Systems Security",
+    "year": 2025,
+    "link": "https://ifiptc11.org/wg114-events/wg114-workshop",
+    "deadline": [
+      "2025-01-31 23:59"
+    ],
+    "date": "May 23",
+    "place": "Maribor, Slovenia",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ITASEC",
+    "description": "Italian Conference on Cybersecurity",
+    "year": 2025,
+    "link": "https://itasec.it/",
+    "deadline": [
+      "2024-12-09 23:59"
+    ],
+    "date": "February 3-8",
+    "place": "Bologna, IT",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "PETS",
+    "description": "Privacy Enhancing Technologies Symposium",
+    "year": 2026,
+    "link": "https://www.petsymposium.org/cfp26.php",
+    "deadline": [
+      "%Y-05-31 23:59",
+      "%Y-08-31 23:59",
+      "%Y-11-30 23:59",
+      "%y-02-28 23:59"
+    ],
+    "comment": "Rolling deadline every quarter",
+    "date": "TBD (July)",
+    "place": "TBD",
+    "tags": [
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "PLAS",
+    "year": 2024,
+    "description": "Workshop on Programming Languages and Analysis for Security",
+    "comment": "Co-located with CCS 2024",
+    "link": "https://plas24.github.io/",
+    "deadline": [
+      "2024-06-20 23:59"
+    ],
+    "date": "October 14",
+    "place": "Salt Lake City, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ACIS (PrivaCI)",
+    "year": 2025,
+    "date": "May 19-20",
+    "description": "The Annual Symposium on Applications of Contextual Integrity",
+    "link": "https://privaci.info/symposium/2025/cfp.html",
+    "deadline": [
+      "2025-02-14 23:59"
+    ],
+    "place": "Brussels, Belgium",
+    "tags": [
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Inscrypt",
+    "year": 2025,
+    "description": "International Conference on Information Security and Cryptology",
+    "link": "https://inscrypt2025.xidian.edu.cn/",
+    "deadline": [
+      "2025-04-15 23:59",
+      "2025-06-15 23:59"
+    ],
+    "timezone": "Etc/GMT-8",
+    "date": "October 19-21",
+    "place": "Xi'an, China",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SAC",
+    "description": "Selected Areas in Cryptography",
+    "year": 2025,
+    "link": "https://sacworkshop.org/SAC25/",
+    "deadline": [
+      "2025-01-27 23:59",
+      "2025-05-07 23:59"
+    ],
+    "date": "August 13-15",
+    "place": "Toronto, ON, Canada",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Crypto",
+    "description": "International Cryptology Conference",
+    "year": 2025,
+    "link": "https://crypto.iacr.org/2025/",
+    "deadline": [
+      "2025-02-13 11:00"
+    ],
+    "date": "August 17-21",
+    "place": "Santa Barbara, CA, USA",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Eurocrypt",
+    "description": "European Cryptology Conference",
+    "year": 2025,
+    "link": "https://eurocrypt.iacr.org/2025/",
+    "deadline": [
+      "2024-10-02 23:59"
+    ],
+    "date": "May 4-8",
+    "place": "Madrid, Spain",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Asiacrypt",
+    "description": "International Conference on the Theory and Application of Cryptology and Information Security",
+    "year": 2025,
+    "link": "https://asiacrypt.iacr.org/2025/",
+    "deadline": [
+      "2025-05-16 12:00"
+    ],
+    "timezone": "Etc/GMT",
+    "date": "December 8-12",
+    "place": "Melbourne, Australia",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "AFT",
+    "description": "ACM Conference on Advances in Financial Technologies",
+    "year": 2025,
+    "link": "https://aftconf.github.io/aft25/CFP.html",
+    "deadline": [
+      "2025-05-28 23:59"
+    ],
+    "date": "October 8–10",
+    "place": "Pittsburgh, PA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "TCC",
+    "description": "Theory of Cryptography Conference",
+    "year": 2025,
+    "link": "https://tcc.iacr.org/2025/",
+    "deadline": [
+      "2025-05-27 23:59"
+    ],
+    "date": "December 2-5",
+    "place": "Aarhus, Denmark",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "PKC",
+    "description": "International Conference on Practice and Theory of Public Key Cryptography",
+    "year": 2025,
+    "link": "https://pkc.iacr.org/2025/",
+    "deadline": [
+      "2024-10-16 09:59"
+    ],
+    "timezone": "Etc/UTC",
+    "date": "May 12-15",
+    "place": "Røros, Norway",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CT-RSA",
+    "description": "RSA Conference Cryptographers’ Track",
+    "year": 2025,
+    "link": "https://ct-rsa-2025.csa.iisc.ac.in/",
+    "deadline": [
+      "2024-10-15 23:59"
+    ],
+    "date": "April 28 - May 1",
+    "place": "San Francisco, CA, USA",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SECRYPT",
+    "description": "International Conference on Security and Cryptography",
+    "year": 2025,
+    "link": "https://secrypt.scitevents.org",
+    "deadline": [
+      "2025-01-17 23:59",
+      "2025-03-03 23:59"
+    ],
+    "date": "June 12-14",
+    "place": "Bilboa, Spain",
+    "tags": [
+      "SEC",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "AFRICACRYPT",
+    "description": "International Conference on Cryptography Africa",
+    "year": 2025,
+    "link": "https://africacrypt2025.sciencesconf.org/",
+    "deadline": [
+      "2025-03-01 23:59"
+    ],
+    "date": "July 21-23",
+    "place": "Rabat, Morocco",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "LATINCRYPT",
+    "year": 2025,
+    "description": "International Conference on Cryptology and Information Security in Latin America",
+    "link": "https://ciencias.medellin.unal.edu.co/eventos/latincrypt/",
+    "deadline": [
+      "2025-05-16 23:59"
+    ],
+    "comment": "Extended submission deadline May 16th 23:59 AoE",
+    "date": "October 1-3",
+    "place": "Medellin, Colombia",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "FSE",
+    "description": "IACR Transactions on Symmetric Cryptology",
+    "year": 2026,
+    "link": "https://tosc.iacr.org/",
+    "deadline": [
+      "%Y-03-01 23:59",
+      "%Y-06-01 23:59",
+      "%Y-09-01 23:59",
+      "%Y-11-23 23:59"
+    ],
+    "comment": "Rolling deadline every quarter",
+    "date": "TBD",
+    "place": "TBD",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CHES",
+    "description": "IACR Transactions on Cryptographic Hardware and Embedded Systems",
+    "year": 2025,
+    "link": "https://ches.iacr.org/2025/",
+    "deadline": [
+      "%Y-07-15 23:59",
+      "%Y-10-15 23:59",
+      "%y-01-15 23:59",
+      "%y-04-15 23:59"
+    ],
+    "comment": "Rolling deadline every quarter",
+    "date": "September 14-18",
+    "place": "Kuala Lumpur, Malaysia",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "LightSEC",
+    "description": "International Workshop on Lightweight Cryptography for Security and Privacy",
+    "year": 2025,
+    "date": "September 01-03",
+    "link": "https://www.encrypt-on.com/activities/conferences/lightsec-2025/",
+    "deadline": [
+      "2025-04-18 23:59"
+    ],
+    "place": "Istanbul, Turkiye",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP",
+      "CRYPTO"
+    ]
+  },
+  {
+    "name": "ACM SAC",
+    "description": "ACM/SIGAPP Symposium On Applied Computing",
+    "year": 2025,
+    "link": "https://www.sigapp.org/sac/sac2025/",
+    "deadline": [
+      "2024-10-04 23:59"
+    ],
+    "date": "March 31 - April 4",
+    "place": "Catania, Italy",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "RAID",
+    "description": "International Symposium on Research in Attacks, Intrusions and Defenses",
+    "year": 2025,
+    "link": "https://raid2025.github.io",
+    "deadline": [
+      "2025-04-24 23:59"
+    ],
+    "date": "October 19-22",
+    "place": "Gold Coast, Australia",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ACSAC",
+    "description": "Annual Computer Security Applications Conference",
+    "year": 2025,
+    "link": "https://www.acsac.org/2025/submissions/papers/",
+    "deadline": [
+      "2025-05-30 23:59"
+    ],
+    "date": "Dec 9-13",
+    "place": "Honolulu, Hawaii, USA",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "DSN",
+    "description": "The International Conference on Dependable Systems and Networks",
+    "year": 2025,
+    "link": "https://dsn2025.github.io/",
+    "deadline": [
+      "2024-12-04 23:59"
+    ],
+    "comment": "Abstract deadline on Nov 27",
+    "date": "June 23-26",
+    "place": "Naples, Italy",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ACNS",
+    "description": "International Conference on Applied Cryptography and Network Security",
+    "year": 2025,
+    "link": "https://fordaysec.de/en/event/acns-2025",
+    "deadline": [
+      "2024-09-09 23:59",
+      "2025-01-13 23:59"
+    ],
+    "date": "June 23-26",
+    "place": "Munich, Germany",
+    "tags": [
+      "CRYPTO",
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "DIMVA",
+    "description": "The Conference on Detection of Intrusions and Malware & Vulnerability Assessment",
+    "year": 2025,
+    "link": "https://www.dimva.org/dimva2025/",
+    "deadline": [
+      "2024-12-04 23:59",
+      "2025-02-19 23:59"
+    ],
+    "date": "July 9-11",
+    "place": "Graz, Austria",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SACMAT",
+    "description": "ACM Symposium on Access Control Models and Technologies",
+    "year": 2025,
+    "link": "https://www.sacmat.org/2025/",
+    "deadline": [
+      "2025-03-31 23:59"
+    ],
+    "date": "July 8-10",
+    "place": "Stony Brook, New York, United States",
+    "tags": [
+      "CRYPTO",
+      "SEC",
+      "CONF",
+      "PRIV"
+    ]
+  },
+  {
+    "name": "ARES",
+    "description": "International Conference on Availability, Reliability and Security",
+    "year": 2025,
+    "link": "https://2025.ares-conference.eu/",
+    "deadline": [
+      "2025-03-11 23:59"
+    ],
+    "date": "August 10-13",
+    "place": "Ghent, Belgium",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CODASPY",
+    "description": "ACM Conference on Data and Application Security and Privacy",
+    "year": 2025,
+    "link": "http://www.codaspy.org/2025/",
+    "deadline": [
+      "2024-12-06 23:59"
+    ],
+    "comment": "Abstract deadline December 1 AoE.",
+    "date": "June 4-6",
+    "place": "Pittsburgh, PA, USA",
+    "tags": [
+      "CRYPTO",
+      "SEC",
+      "CONF",
+      "PRIV"
+    ]
+  },
+  {
+    "name": "DBSec",
+    "description": "Conference on Data and Applications Security and Privacy",
+    "year": 2025,
+    "link": "https://www.ntnu.edu/web/dbsec2025/",
+    "deadline": [
+      "2025-03-07 23:59"
+    ],
+    "comment": "Recommended abstract deadline March 3rd AoE",
+    "date": "June 23-25",
+    "place": "Gjøvik, Norway",
+    "tags": [
+      "CRYPTO",
+      "SEC",
+      "CONF",
+      "PRIV"
+    ]
+  },
+  {
+    "name": "The Web Conference",
+    "description": "International Conference on the World Wide Web",
+    "year": 2025,
+    "link": "https://www2025.thewebconf.org",
+    "deadline": [
+      "2024-10-14 23:59"
+    ],
+    "comment": "Abstract deadline Oct 7 AoE.",
+    "date": "April 28 - May 02",
+    "place": "Sydney, Australia",
+    "tags": [
+      "SEC",
+      "CONF",
+      "PRIV"
+    ]
+  },
+  {
+    "name": "eCrime",
+    "year": 2024,
+    "date": "September 24-26",
+    "description": "The Symposium on Electronic Crime Research",
+    "link": "https://apwg.org/event/ecrime2024/",
+    "deadline": [
+      "2024-07-07 23:59"
+    ],
+    "place": "Boston, MA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "PAM",
+    "year": 2025,
+    "date": "March 10-12",
+    "description": "Passive and Active Measurement Conference",
+    "link": "https://udesa.edu.ar/pam25",
+    "deadline": [
+      "2024-10-08 23:59"
+    ],
+    "place": "Virtual",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "NCA",
+    "description": "International Symposium on Network Computing and Applications",
+    "year": 2024,
+    "link": "https://www.nca-ieee.org/2024/index.html",
+    "deadline": [
+      "2024-08-04 23:59"
+    ],
+    "date": "October 24-26",
+    "place": "Bertinoro, Italy",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ACSW",
+    "description": "Workshop on Automotive Cyber-Security",
+    "year": 2025,
+    "comment": "Co-Located with IEEE European Symposium on Security and Privacy",
+    "link": "https://acsw.unimore.it/",
+    "deadline": [
+      "2025-02-19 23:59"
+    ],
+    "date": "June 30",
+    "place": "Venice, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "OSVS",
+    "description": "Workshop on Operating Systems and Virtualization Security",
+    "year": 2025,
+    "link": "https://osvs.pages.dev",
+    "deadline": [
+      "2025-03-23 23:59"
+    ],
+    "date": "July 04",
+    "comment": "Co-located with IEEE Euro S&P",
+    "place": "Venice, Italy",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "IMPACT",
+    "description": "Workshop on Innovation in Metadata Privacy---Analysis and Construction Techniques",
+    "year": 2025,
+    "link": "https://www.ndss-symposium.org/ndss2025/co-located-events/impact/",
+    "deadline": [
+      "2025-01-10 23:59"
+    ],
+    "comment": "Co-located with NDSS Symposium",
+    "date": "February 28",
+    "place": "San Diego, California, USA",
+    "tags": [
+      "PRIV",
+      "SEC",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CRISIS",
+    "year": 2025,
+    "description": "International Conference on Risks and Security of Internet and Systems",
+    "link": "https://crisis2025.uqo.ca",
+    "deadline": [
+      "2025-06-13 23:59"
+    ],
+    "date": "October 22-24",
+    "place": "Gatineau, Canada",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ProvSec",
+    "year": 2025,
+    "description": "International Conference on Provable and Practical Security",
+    "link": "https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html",
+    "deadline": [
+      "2025-05-31 23:59"
+    ],
+    "date": "October 10-12",
+    "place": "Yokohama, Japan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "Security for Space Systems (3S)",
+    "year": 2025,
+    "date": "November 4 - 6",
+    "description": "ESA Security for Space Systems Conference",
+    "deadline": [
+      "2025-04-16 23:59",
+      "2025-06-30 23:59"
+    ],
+    "link": "https://security4space.esa.int/2025/cfp/",
+    "place": "ESTEC, Noordwijk, Netherlands",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SEED",
+    "description": "IEEE International Symposium on Secure and Private Execution Environment Design",
+    "year": 2024,
+    "link": "https://seed-symposium.org/2024/",
+    "deadline": [
+      "2023-11-05 23:59"
+    ],
+    "date": "January 29-30",
+    "place": "Orlando, FL",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ICICS",
+    "year": 2025,
+    "date": "October 29-31",
+    "description": "International Conference on Information and Communications Security",
+    "link": "https://www.icics2025.org/index.html",
+    "deadline": [
+      "2025-03-09 23:59",
+      "2025-05-23 23:59"
+    ],
+    "timezone": "Asia/Shanghai",
+    "place": "Nanjing, China",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SaTML",
+    "year": 2025,
+    "date": "April 9-11",
+    "description": "IEEE Conference on Secure and Trustworthy Machine Learning",
+    "link": "https://satml.org/",
+    "deadline": [
+      "2024-09-27 23:59"
+    ],
+    "place": "Copenhagen, Denmark",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "NordSec",
+    "year": 2024,
+    "description": "Nordic Conference on Secure IT Systems",
+    "link": "https://nordsec2024.kau.se/",
+    "deadline": [
+      "2024-08-21 23:59"
+    ],
+    "date": "November 6-7",
+    "place": "Karlstad, Sweden",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SecDev",
+    "year": 2025,
+    "description": "IEEE Secure Development Conference",
+    "link": "https://secdev.ieee.org/2025/home/",
+    "deadline": [
+      "2025-05-13 23:59"
+    ],
+    "date": "October 14-16",
+    "place": "Indianapolis, IN, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "HOST",
+    "description": "IEEE International Symposium on Hardware Oriented Security and Trust",
+    "year": 2025,
+    "link": "http://www.hostsymposium.org/",
+    "deadline": [
+      "2024-08-26 23:59",
+      "2024-12-16 23:59"
+    ],
+    "date": "May 5-8",
+    "place": "San Jose, CA, USA",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "AsianHOST",
+    "description": "Asian Hardware Oriented Security and Trust Symposium",
+    "year": 2024,
+    "link": "https://www.asianhost.org/2024/",
+    "deadline": [
+      "2024-08-04 23:59"
+    ],
+    "date": "December 16-18",
+    "timezone": "Asia/Shanghai",
+    "place": "Kobe, Japan",
+    "tags": [
+      "SEC",
+      "CONF"
+    ]
+  },
+  {
+    "name": "AIHWS",
+    "description": "ACNS Workshop on Artificial Intelligence in Hardware Security",
+    "year": 2025,
+    "link": "https://aihws2025.aisylab.com/",
+    "deadline": [
+      "2025-03-07 23:59"
+    ],
+    "comment": "In conjunction with ACNS 2025",
+    "date": "June 25",
+    "place": "Munich, Germany",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "AIoTS",
+    "description": "International Workshop on Artificial Intelligence and IoT Security",
+    "year": 2025,
+    "link": "https://aiotsweb.github.io/aiots2025/",
+    "deadline": [
+      "2025-03-23 23:59"
+    ],
+    "comment": "In conjunction with ACNS 2025",
+    "date": "June 24",
+    "place": "Munich, Germany",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CIMSS",
+    "description": "International Workshop on Critical Infrastructure and Manufacturing System Security",
+    "year": 2025,
+    "link": "https://cimssworkshop.github.io/",
+    "deadline": [
+      "2025-03-23 23:59"
+    ],
+    "comment": "In conjunction with ACNS 2025",
+    "date": "June 24",
+    "place": "Munich, Germany",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SCI",
+    "description": "ACNS Workshop on Secure Cryptographic Implementation",
+    "year": 2025,
+    "link": "https://acns-sci.github.io/",
+    "deadline": [
+      "2025-03-15 23:59"
+    ],
+    "comment": "In conjunction with ACNS 2025",
+    "date": "June 24",
+    "place": "Munich, Germany",
+    "tags": [
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SiMLA",
+    "description": "ACNS Workshop on Security in Machine Learning and its Applications",
+    "year": 2025,
+    "link": "https://simla-workshop2025.github.io/",
+    "deadline": [
+      "2025-01-15 23:59",
+      "2025-03-23 23:59"
+    ],
+    "comment": "In conjunction with ACNS 2025",
+    "date": "June 26",
+    "place": "Munich, Germany",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CPSIoTSec",
+    "description": "The Joint Workshop on CPS & IoT Security and Privacy",
+    "year": 2025,
+    "link": "https://cpsiotsec2025.github.io/",
+    "deadline": [
+      "2025-06-20 23:59"
+    ],
+    "comment": "In conjunction with ACM CCS 2025",
+    "date": "October 17",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "AISec",
+    "description": "Workshop on Artificial Intelligence and Security",
+    "year": 2025,
+    "link": "https://aisec.cc",
+    "deadline": [
+      "2025-06-20 23:59"
+    ],
+    "date": "October 17, 2025",
+    "comment": "Co-located with ACM CCS 2025",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "EnergySP",
+    "description": "ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems",
+    "year": 2025,
+    "link": "https://energysp.github.io/",
+    "deadline": [
+      "2025-03-24 23:59"
+    ],
+    "comment": "In conjunction with ACM eEnergy",
+    "date": "June 17",
+    "place": "Rotterdam, Netherlands",
+    "tags": [
+      "SEC",
+      "SHOP",
+      "PRIV"
+    ]
+  },
+  {
+    "name": "WoRMA",
+    "description": "Workshop on Rethinking Malware Analysis",
+    "year": 2025,
+    "link": "https://worma.gitlab.io/2025/",
+    "deadline": [
+      "2025-02-20 23:59"
+    ],
+    "date": "June 30",
+    "comment": "Co-located with IEEE Euro S&P",
+    "place": "Venice, Italy",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SysTEX",
+    "description": "Workshop on System Software for Trusted Execution",
+    "year": 2024,
+    "link": "https://systex24.github.io/",
+    "deadline": [
+      "2024-03-26 23:59"
+    ],
+    "date": "July 8",
+    "comment": "Co-located with IEEE Euro S&P 2024",
+    "place": "Vienna, Austria",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ICSS",
+    "description": "Industrial Control System Security Workshop",
+    "year": 2024,
+    "link": "https://www.acsac.org/2024/workshops/icss/",
+    "deadline": [
+      "2024-09-12 23:59"
+    ],
+    "comment": "In conjunction with ACSAC",
+    "date": "December 10",
+    "place": "Waikiki, Hawaii, USA",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "WEB3SEC",
+    "description": "Workshop Encouraging Building Better Blockchain Security",
+    "year": 2024,
+    "link": "https://www.acsac.org/2024/workshops/web3sec/",
+    "deadline": [
+      "2024-10-06 23:59"
+    ],
+    "comment": "In conjunction with ACSAC",
+    "date": "December 9",
+    "place": "Waikiki, Hawaii, USA",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ARTMAN",
+    "description": "Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN system",
+    "year": 2024,
+    "link": "https://artman-workshop.gitlab.io/",
+    "deadline": [
+      "2024-09-15 23:59"
+    ],
+    "comment": "In conjunction with ACSAC",
+    "date": "December 9",
+    "place": "Waikiki, Hawaii, USA",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "WPES",
+    "description": "Workshop on Privacy in the Electronic Society",
+    "year": 2025,
+    "link": "http://jianying.space/WPES2025/",
+    "deadline": [
+      "2025-07-07 23:59"
+    ],
+    "comment": "In conjunction with ACM CCS",
+    "date": "October 13",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "NSPW",
+    "description": "New Security Paradigms Workshop",
+    "year": 2025,
+    "link": "https://www.nspw.org/2025/cfp",
+    "deadline": [
+      "2025-04-25 23:59"
+    ],
+    "date": "August 24 - 27",
+    "place": "Aerzen, Germany",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CNS",
+    "description": "IEEE Conference on Communications and Network Security",
+    "year": 2025,
+    "link": "https://cns2025.ieee-cns.org/authors/call-papers",
+    "deadline": [
+      "2025-05-05 23:59"
+    ],
+    "date": "September 08 - 11",
+    "place": "Avignon, France",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "HASP",
+    "description": "Hardware and Architectural Support for Security and Privacy",
+    "year": 2024,
+    "link": "https://haspworkshop.org/2024/",
+    "comment": "Co-located with MICRO",
+    "deadline": [
+      "2024-08-15 23:59"
+    ],
+    "date": "November 2",
+    "timezone": "Etc/UTC",
+    "place": "Austin, Texas, United States",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "PAVeTrust",
+    "description": "Program Analysis and Verification on Trusted Platforms",
+    "year": 2024,
+    "link": "https://pavetrust.github.io/",
+    "comment": "Collocated with FM",
+    "deadline": [
+      "2024-07-05 23:59"
+    ],
+    "date": "September 9",
+    "place": "Milan, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SpaceSec",
+    "description": "Workshop on the Security of Space and Satellite Systems",
+    "year": 2025,
+    "link": "https://spacesec.info/",
+    "comment": "Co-located with NDSS Symposium",
+    "deadline": [
+      "2024-12-09 23:59"
+    ],
+    "date": "February 24",
+    "place": "San Diego, California, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "MADWeb",
+    "description": "Workshop on Measurements, Attacks, and Defenses for the Web",
+    "year": 2025,
+    "link": "https://madweb.work/",
+    "comment": "Co-located with NDSS Symposium",
+    "deadline": [
+      "2025-01-09 23:59"
+    ],
+    "date": "February 28",
+    "place": "San Diego, California, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "WOOT",
+    "description": "USENIX WOOT Conference on Offensive Technologies",
+    "year": 2025,
+    "link": "https://www.usenix.org/conference/woot25/call-for-papers",
+    "comment": "Co-located with USENIX Security; up-and-coming track deadline is Mar 4",
+    "deadline": [
+      "2025-03-11 23:59"
+    ],
+    "date": "August 11-12",
+    "place": "Seattle, WA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "SafeThings",
+    "description": "IEEE/ACM Workshop on the Internet of Safe Things",
+    "year": 2025,
+    "link": "https://safethings25.ieee-security.org/",
+    "deadline": [
+      "2025-02-17 23:59"
+    ],
+    "comment": "Co-located with IEEE S&P 2025",
+    "date": "May 15",
+    "place": "San Francisco, CA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SILM",
+    "description": "Security of Software/Hardware Interfaces",
+    "year": 2024,
+    "link": "https://silm-workshop.github.io/",
+    "deadline": [
+      "2024-03-29 23:59"
+    ],
+    "comment": "Co-located with EURO S&P 2024",
+    "date": "July 12",
+    "place": "Vienna, Austria",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "MAL-IoT",
+    "description": "Malicious Software and Hardware in Internet of Things",
+    "year": 2025,
+    "link": "https://security.ucc.ie/mal-iot2025/",
+    "deadline": [
+      "2025-03-10 23:59"
+    ],
+    "comment": "Co-located with ACM International Conference on Computing Frontiers 2025.",
+    "date": "May 28",
+    "place": "Cagliari, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "DevSecOpsRO",
+    "year": 2025,
+    "date": "July 4",
+    "description": "DevSecOps Research and Opportunities",
+    "link": "https://spritz.math.unipd.it/events/2025/devSecOpsRO/",
+    "deadline": [
+      "2025-03-02 23:59"
+    ],
+    "place": "Venice, Italy",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "FUZZING",
+    "year": 2024,
+    "date": "September 16",
+    "description": "International Fuzzing Workshop",
+    "link": "https://fuzzingworkshop.github.io/index.html",
+    "deadline": [
+      "2024-06-24 23:59"
+    ],
+    "place": "Vienna, Austria",
+    "comment": "Co-located with ISSTA 2024",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SECAI",
+    "description": "Workshop on Security and Artificial Intelligance",
+    "year": 2024,
+    "link": "https://sites.google.com/view/secai2024",
+    "deadline": [
+      "2024-06-29 23:59"
+    ],
+    "comment": "Co-located with ESORICS 2024",
+    "date": "September 16-20",
+    "place": "Bydgoszcz, Poland",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ASHES",
+    "description": "Workshop on Attacks and Solutions in Hardware Security",
+    "year": 2024,
+    "comment": "Co-located with ACM CCS '24",
+    "link": "http://ashesworkshop.org/home",
+    "deadline": [
+      "2024-07-18 23:59"
+    ],
+    "date": "October 18",
+    "place": "Salt Lake City, Utah, United States",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SCORED",
+    "description": "ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses",
+    "year": 2024,
+    "comment": "Co-located with ACM CCS '24",
+    "link": "https://scored.dev/",
+    "deadline": [
+      "2024-07-05 23:59"
+    ],
+    "date": "October 18",
+    "place": "Salt Lake City, Utah, United States",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "DPM",
+    "description": "Data Privacy Management International Workshop",
+    "comment": "Co-located with ESORICS 2024",
+    "year": 2024,
+    "link": "https://deic.uab.cat/dpm/dpm2024/",
+    "deadline": [
+      "2024-06-23 23:59"
+    ],
+    "place": "Bydgoszcz, Poland",
+    "date": "September, 19th",
+    "tag": [
+      "PRIV",
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CBT",
+    "description": "International Workshop on Cryptocurrencies and Blockchain Technology",
+    "comment": "Co-located with ESORICS 2025",
+    "year": 2025,
+    "link": "http://cbtworkshop.org/",
+    "deadline": [
+      "2025-06-17 23:59"
+    ],
+    "place": "Toulouse, France",
+    "date": "September 25",
+    "tag": [
+      "SEC",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CyberHunt",
+    "description": "Workshop on Cyber Threat Intelligence and Hunting",
+    "year": 2024,
+    "link": "https://cyberhunt2024.cyberhunt.no/",
+    "deadline": [
+      "2024-10-01 23:59"
+    ],
+    "comment": "Co-located with IEEE BigData 2024",
+    "date": "December 15-18",
+    "place": "Washington DC, USA",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "IoT-SECFOR",
+    "description": "International Workshop on Security and Forensics of IoT",
+    "year": 2024,
+    "link": "https://www.ares-conference.eu/workshops/iotsecfor/",
+    "deadline": [
+      "2024-04-29 23:59"
+    ],
+    "comment": "Co-located with ARES 2024",
+    "date": "Jul 30",
+    "place": "Vienna, Austria",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "ICISS",
+    "description": "International Conference on Information Systems Security",
+    "year": 2025,
+    "link": "https://iciss.isrdc.in/",
+    "deadline": [
+      "2024-07-10 23:59"
+    ],
+    "date": "December 16-20",
+    "place": "Indore, Madhya Pradesh, India",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CPSS",
+    "description": "ACM Cyber-Physical System Security Workshop",
+    "year": 2025,
+    "link": "http://jianying.space/cpss/CPSS2025/",
+    "comment": "Co-located with ACM AsiaCCS 2025",
+    "deadline": [
+      "2025-01-10 23:59",
+      "2025-03-15 23:59"
+    ],
+    "date": "August 26",
+    "place": "Hanoi, Vietnam",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "WACCO",
+    "description": "Workshop on Attackers and Cyber-Crime Operations",
+    "year": 2025,
+    "link": "https://wacco-workshop.org/",
+    "deadline": [
+      "2025-02-20 23:59"
+    ],
+    "date": "June 30",
+    "place": "Venezia, Italy",
+    "tags": [
+      "SEC",
+      "PRIV"
+    ]
+  },
+  {
+    "name": "IWSEC",
+    "description": "International Workshop on Security",
+    "year": 2025,
+    "link": "https://www.iwsec.org/2025/",
+    "deadline": [
+      "2025-04-10 23:59",
+      "2025-07-17 23:59"
+    ],
+    "timezone": "Etc/UTC",
+    "date": "November 25-27",
+    "place": "Fukuoka, JP",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CSET",
+    "description": "Cyber Security Experimentation and Test Workshop",
+    "year": 2024,
+    "link": "https://cset24.isi.edu/",
+    "comment": "Co-located with USENIX Security",
+    "deadline": [
+      "2024-05-17 20:00"
+    ],
+    "timezone": "America/New_York",
+    "date": "August 13",
+    "place": "Philadelphia, PA, USA",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "QSNS",
+    "year": 2025,
+    "description": "Workshop on Quantum-Secure Networks and Systems",
+    "comment": "Co-located with IEEE ISCC 2025",
+    "link": "https://qubip.eu/qsns2025/",
+    "deadline": [
+      "2025-02-10 23:59"
+    ],
+    "place": "Bologna, Italy",
+    "date": "July 2-5",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CheckMATE",
+    "description": "Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks",
+    "year": 2025,
+    "link": "https://checkmate-workshop.github.io/",
+    "deadline": [
+      "2025-06-20 23:59"
+    ],
+    "comment": "Co-located with ACM CCS 2025",
+    "date": "October 17",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CSCS",
+    "description": "Cyber Security in Cars Workshop",
+    "year": 2024,
+    "link": "https://acm-cscs.org",
+    "deadline": [
+      "2024-07-04 23:59"
+    ],
+    "comment": "Co-located with ACM CCS 2024",
+    "date": "October 18",
+    "place": "Salt Lake City, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SmartSP",
+    "description": "EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles",
+    "year": 2025,
+    "link": "https://smartsp.eai-conferences.org/2025/",
+    "deadline": [
+      "2025-07-15 23:59"
+    ],
+    "date": "December 1-2",
+    "place": "Salt Lake City, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "CCSW",
+    "description": "The ACM Cloud Computing Security Workshop",
+    "year": 2024,
+    "link": "https://ccsw.io/",
+    "deadline": [
+      "2024-08-04 23:59"
+    ],
+    "comment": "Co-located with ACM CCS 2024",
+    "date": "October 18",
+    "place": "Salt Lake City, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "PQCrypto",
+    "description": "International Conference on Post-Quantum Cryptography",
+    "year": 2025,
+    "link": "https://pqcrypto2025.iis.sinica.edu.tw/",
+    "deadline": [
+      "2024-11-01 23:59"
+    ],
+    "comment": "Initial submission with abstract required Oct 25th.",
+    "date": "April 8",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "WAITI",
+    "description": "Workshop on AI for Cyber Threat Intelligence",
+    "year": 2024,
+    "link": "https://waiti-workshop.github.io/",
+    "deadline": [
+      "2024-09-20 23:59"
+    ],
+    "comment": "Co-located with ACSAC 2024",
+    "date": "December 9",
+    "place": "Waikiki, Hawaii, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "TAC",
+    "description": "Topics in Applied Cryptography",
+    "year": 2024,
+    "date": "September 27",
+    "link": "https://aleph.fbk.eu/events/TAC2024/",
+    "deadline": [
+      "2024-07-29 23:59"
+    ],
+    "comment": "Co-located with CIFRIS. Paper registration due Jul 25 AoE",
+    "place": "Rome, Italy",
+    "tags": [
+      "SEC",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "FutureG",
+    "description": "Workshop on Security and Privacy of Next-Generation Networks",
+    "year": 2025,
+    "link": "https://www.ndss-symposium.org/ndss2025/co-located-events/futureg/",
+    "deadline": [
+      "2025-01-10 23:59"
+    ],
+    "comment": "Co-located with NDSS Symposium 2025",
+    "date": "February 24",
+    "place": "San Diego, California, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CloudResIOT",
+    "description": "International Workshop on Cloud Resilience for the Internet of Things",
+    "year": 2025,
+    "link": "https://www.cloudresiot.com/",
+    "deadline": [
+      "2025-03-01 23:59"
+    ],
+    "comment": "Co-located with ICCCN 2025.",
+    "date": "August 4-7",
+    "place": "Tokyo, Japan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "VehicleSec",
+    "description": "Symposium on Vehicle Security and Privacy",
+    "year": 2025,
+    "link": "https://www.usenix.org/conference/vehiclesec25/call-for-papers",
+    "deadline": [
+      "2025-03-06 23:59"
+    ],
+    "comment": "Co-located with USENIX Security 2025",
+    "date": "August 11-12",
+    "place": "Seattle, WA, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF"
+    ]
+  },
+  {
+    "name": "WEIS",
+    "description": "Workshop on the Economics of Information Security",
+    "year": 2025,
+    "link": "http://kmlabcw.iis.u-tokyo.ac.jp/weis/2025/",
+    "deadline": [
+      "2025-01-31 23:59"
+    ],
+    "date": "June 23-25",
+    "place": "Tokyo, Japan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "SeRIM",
+    "description": "International Workshop on Security and Risk in Identity Management",
+    "year": 2025,
+    "comment": "Co-Located with IEEE European Symposium on Security and Privacy (EuroS&P).",
+    "link": "https://st.fbk.eu/events/SeRIM2025/",
+    "deadline": [
+      "2025-03-10 23:59"
+    ],
+    "date": "July 4",
+    "place": "Venice, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "Crypto Valley Conference",
+    "description": "Crypto Valley Conference on Blockchain Technology 2025",
+    "year": 2025,
+    "link": "https://cryptovalleyconference.com/call-for-papers",
+    "deadline": [
+      "2025-03-13 23:59"
+    ],
+    "date": "June 5-6",
+    "place": "Rotkreuz, Switzerland",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "CONF"
+    ]
+  },
+  {
+    "name": "ACM SaT-CPS",
+    "description": "ACM Workshop on Secure and Trustworthy Cyber Physical Systems",
+    "year": 2025,
+    "comment": "Co-Located with ACM Conference on Data and Application Security and Privacy (CODASPY).",
+    "link": "https://sites.google.com/view/sat-cps-2025",
+    "deadline": [
+      "2025-03-02 23:59"
+    ],
+    "date": "June 6",
+    "place": "Pittsburgh, Pennsylvania, USA",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "APKC",
+    "description": "ACM ASIA Public-Key Cryptography Workshop",
+    "year": 2025,
+    "link": "https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2025.html",
+    "comment": "Co-located with ACM AsiaCCS 2025",
+    "deadline": [
+      "2025-02-17 23:59"
+    ],
+    "date": "August 26",
+    "place": "Hanoi, Vietnam",
+    "tags": [
+      "SEC",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "MAL-IoT",
+    "description": "Malicious Software and Hardware in the Internet of Things",
+    "year": 2025,
+    "link": "https://security.ucc.ie/mal-iot2025/",
+    "deadline": [
+      "2025-03-10 23:59"
+    ],
+    "comment": "Co-located with ACM Computing Frontiers 2025. Abstract registration by March 7.",
+    "date": "May 28",
+    "place": "Cagliari, Italy",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "MIST",
+    "description": "Workshop on Mobile and IoT Security Technologies",
+    "year": 2025,
+    "link": "https://mist-workshop.github.io/",
+    "deadline": [
+      "2025-06-30 23:59"
+    ],
+    "comment": "Co-located with ESORICS 2025",
+    "date": "September 25-26",
+    "place": "Toulouse, France",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CRYPTO",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "uASC",
+    "description": "Microarchitecture Security Conference",
+    "year": 2026,
+    "link": "https://uasc.cc",
+    "deadline": [
+      "2025-07-15 23:59",
+      "2025-11-04 23:59"
+    ],
+    "date": "February 3",
+    "place": "Leuven, Belgium",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "CONF",
+      "CRYPTO"
+    ]
+  },
+  {
+    "name": "HS3",
+    "description": "Workshop on Hardware-Supported Software Security",
+    "year": 2025,
+    "link": "https://hs3-workshop.github.io/",
+    "deadline": [
+      "2025-06-13 23:59"
+    ],
+    "comment": "Co-located with ESORICS 25.",
+    "date": "September 25",
+    "place": "Toulouse, France",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "CPS-Sec",
+    "description": "10th IEEE International Workshop on Cyber-Physical Systems Security",
+    "year": 2025,
+    "link": "https://spritz.math.unipd.it/events/2025/CPS-Sec2025/",
+    "deadline": [
+      "2025-06-30 23:59"
+    ],
+    "comment": "In conjunction with IEEE CNS",
+    "date": "September 11",
+    "place": "Avignon, France",
+    "tags": [
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "OPTIMIST",
+    "description": "Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing",
+    "year": 2025,
+    "link": "https://optimist-ose.org/ches25",
+    "deadline": [
+      "2025-06-30 23:59"
+    ],
+    "comment": "Co-located with CHES 25.",
+    "date": "September 14",
+    "place": "Kuala Lumpur, Malaysia",
+    "tags": [
+      "CRYPTO",
+      "SEC",
+      "SHOP"
+    ]
+  },
+  {
+    "name": "HAIPS",
+    "description": "Workshop on Human-Centered AI Privacy and Security",
+    "year": 2025,
+    "link": "https://haips.com",
+    "deadline": [
+      "2025-06-20 23:59"
+    ],
+    "comment": "Co-located with ACM CCS 2025",
+    "date": "October 17",
+    "place": "Taipei, Taiwan",
+    "tags": [
+      "SEC",
+      "PRIV",
+      "SHOP"
+    ]
+  }
+]
